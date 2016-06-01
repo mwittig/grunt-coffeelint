@@ -1,6 +1,6 @@
 {
   "name": "grunt-coffeelint",
-  "description": "Lint your Coffee",
+  "description": "Lint your Coffee. A fork of grunt-coffeelint to work with grunt 1.0",
   "version": "0.0.15",
   "homepage": "https://github.com/vojtajina/grunt-coffeelint",
   "author": {

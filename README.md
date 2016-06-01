@@ -3,6 +3,8 @@
 
 **Lint your CoffeeScript with [CoffeeLint].**
 
+**This is a fork of [grunt-coffeelint](https://github.com/vojtajina/grunt-coffeelint) to work with Grunt 1.0.**
+
 ## Installation
 
 Install npm package, next to your project's `Gruntfile.js` file:
